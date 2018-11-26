@@ -1,0 +1,1701 @@
+ (Starting in: 07)
+
+
+
+
+
+
+
+
+
+
+
+     B        L
+
+   N  E     B   E
+
+ U     A  A
+
+
+        T R I L I Z A
+
+        Creator: Thanasis
+
+                 Charisoudis
+        ____
+       /    \
+      /  _   \
+     /  / \\\|
+    /  /  _iiii_
+   /  /  /      \          o | x |
+   |  | -| _  _ |-     *  ---|---|---
+   |  || | o  o | | *        | o | x
+   |  | -|   l  |-     *  ---|---|---
+   |  |  | \__/ |          x | x | o  ...
+   \  |  \______/
+
+
+
+
+ Press any key to skip...
+ (Starting in: 06)
+
+
+
+
+
+
+
+
+
+
+
+     B        L
+
+   N  E     B   E
+
+ U     A  A
+
+
+        T R I L I Z A
+
+        Creator: Thanasis
+
+                 Charisoudis
+        ____
+       /    \
+      /  _   \
+     /  / \\\|
+    /  /  _iiii_
+   /  /  /      \          o | x |
+   |  | -| _  _ |-     *  ---|---|---
+   |  || | o  o | | *        | o | x
+   |  | -|   l  |-     *  ---|---|---
+   |  |  | \__/ |          x | x | o  ...
+   \  |  \______/
+
+
+
+
+ Press any key to skip...
+ (Starting in: 05)
+
+
+
+
+
+
+
+
+
+
+
+     B        L
+
+   N  E     B   E
+
+ U     A  A
+
+
+        T R I L I Z A
+
+        Creator: Thanasis
+
+                 Charisoudis
+        ____
+       /    \
+      /  _   \
+     /  / \\\|
+    /  /  _iiii_
+   /  /  /      \          o | x |
+   |  | -| _  _ |-     *  ---|---|---
+   |  || | o  o | | *        | o | x
+   |  | -|   l  |-     *  ---|---|---
+   |  |  | \__/ |          x | x | o  ...
+   \  |  \______/
+
+
+
+
+ Press any key to skip...
+ (Starting in: 04)
+
+
+
+
+
+
+
+
+
+
+
+     B        L
+
+   N  E     B   E
+
+ U     A  A
+
+
+        T R I L I Z A
+
+        Creator: Thanasis
+
+                 Charisoudis
+        ____
+       /    \
+      /  _   \
+     /  / \\\|
+    /  /  _iiii_
+   /  /  /      \          o | x |
+   |  | -| _  _ |-     *  ---|---|---
+   |  || | o  o | | *        | o | x
+   |  | -|   l  |-     *  ---|---|---
+   |  |  | \__/ |          x | x | o  ...
+   \  |  \______/
+
+
+
+
+ Press any key to skip...
+ (Starting in: 03)
+
+
+
+
+
+
+
+
+
+
+
+     B        L
+
+   N  E     B   E
+
+ U     A  A
+
+
+        T R I L I Z A
+
+        Creator: Thanasis
+
+                 Charisoudis
+        ____
+       /    \
+      /  _   \
+     /  / \\\|
+    /  /  _iiii_
+   /  /  /      \          o | x |
+   |  | -| _  _ |-     *  ---|---|---
+   |  || | o  o | | *        | o | x
+   |  | -|   l  |-     *  ---|---|---
+   |  |  | \__/ |          x | x | o  ...
+   \  |  \______/
+
+
+
+
+ Press any key to skip...
+ (Starting in: 02)
+
+
+
+
+
+
+
+
+
+
+
+     B        L
+
+   N  E     B   E
+
+ U     A  A
+
+
+        T R I L I Z A
+
+        Creator: Thanasis
+
+                 Charisoudis
+        ____
+       /    \
+      /  _   \
+     /  / \\\|
+    /  /  _iiii_
+   /  /  /      \          o | x |
+   |  | -| _  _ |-     *  ---|---|---
+   |  || | o  o | | *        | o | x
+   |  | -|   l  |-     *  ---|---|---
+   |  |  | \__/ |          x | x | o  ...
+   \  |  \______/
+
+
+
+
+ Press any key to skip...
+ (Starting in: 01)
+
+
+
+
+
+
+
+
+
+
+
+     B        L
+
+   N  E     B   E
+
+ U     A  A
+
+
+        T R I L I Z A
+
+        Creator: Thanasis
+
+                 Charisoudis
+        ____
+       /    \
+      /  _   \
+     /  / \\\|
+    /  /  _iiii_
+   /  /  /      \          o | x |
+   |  | -| _  _ |-     *  ---|---|---
+   |  || | o  o | | *        | o | x
+   |  | -|   l  |-     *  ---|---|---
+   |  |  | \__/ |          x | x | o  ...
+   \  |  \______/
+
+
+
+
+ Press any key to skip...
+ (Starting in: 00)
+
+
+Welcome to triliza game!
+
+< Single-Player Mode >
+
+Name: thanos
+
+Thanos, you have to choose a side.
+Choose a side ('o' or 'x'): x
+
+
+Ok, Thanos, you are 'x'. Therefore, i am 'o'.
+
+Here's the playground
+
+   |   |
+-----------
+   |   |
+-----------
+   |   |
+
+Every cell points to a number (1-9):
+
+ 1 | 2 | 3
+-----------
+ 4 | 5 | 6
+-----------
+ 7 | 8 | 9
+
+Since you choose a number that points to an empty cell, you'll see your side in
+that cell.
+After that it's my turn to place my side in the playground.
+Each of us manages to fill an entire row or column or diagonal first wins.
+
+Ok, we are ready. Let,s play! Press any key to continue . . .
+
+Game: 1
+
+
+      1 | 2 | 3
+     -----------
+      4 | 5 | 6    Thanos, you are x.
+     -----------
+      7 | 8 | 9
+
+
+Choose a number in order to get started: 6
+
+Game: 1
+
+
+
+        |   |
+     -----------    x ---> Thanos
+        |   | x
+     -----------    o ---> Pc
+        |   |
+
+Let me think...
+Game: 1
+
+
+        |   |
+     -----------    x ---> /
+        |   | x
+     -----------    o --->
+        |   |
+
+Game: 1
+
+My move is: 9. After my move the playground's like :
+
+        |   |
+     -----------    x ---> Thanos
+        |   | x
+     -----------    o ---> Pc
+        |   | o
+
+Choose your next move (from the remaining numbers): 2
+
+Game: 1
+
+
+
+        | x |
+     -----------    x ---> Thanos
+        |   | x
+     -----------    o ---> Pc
+        |   | o
+
+Let me think...
+Game: 1
+
+
+        | x |
+     -----------    x ---> /
+        |   | x
+     -----------    o --->
+        |   | o
+
+Game: 1
+
+My move is: 5. After my move the playground's like :
+
+        | x |
+     -----------    x ---> Thanos
+        | o | x
+     -----------    o ---> Pc
+        |   | o
+
+Choose your next move (from the remaining numbers): 1
+
+Game: 1
+
+
+
+      x | x |
+     -----------    x ---> Thanos
+        | o | x
+     -----------    o ---> Pc
+        |   | o
+
+Let me think...
+Game: 1
+
+
+      x | x |
+     -----------    x ---> /
+        | o | x
+     -----------    o --->
+        |   | o
+
+Game: 1
+
+My move is: 3. After my move the playground's like :
+
+      x | x | o
+     -----------    x ---> Thanos
+        | o | x
+     -----------    o ---> Pc
+        |   | o
+
+Choose your next move (from the remaining numbers): 7
+
+Game: 1
+
+
+
+      x | x | o
+     -----------    x ---> Thanos
+        | o | x
+     -----------    o ---> Pc
+      x |   | o
+
+Let me think...
+Game: 1
+
+
+      x | x | o
+     -----------    x ---> /
+        | o | x
+     -----------    o --->
+      x |   | o
+
+Game: 1
+
+My move is: 4. After my move the playground's like :
+
+      x | x | o
+     -----------    x ---> Thanos
+      o | o | x
+     -----------    o ---> Pc
+      x |   | o
+
+Game: 1
+
+
+
+      x | x | o
+     -----------    x ---> Thanos
+      o | o | x
+     -----------    o ---> Pc
+      x | x | o
+
+Game: 1
+
+My move is: 4. After my move the playground's like :
+
+      x | x | o
+     -----------    x ---> Thanos
+      o | o | x
+     -----------    o ---> Pc
+      x |   | o
+
+Grabbing the last cell...
+Game: 1
+
+After my move the only available cell was 8.
+
+      x | x | o
+     -----------    x ---> Thanos
+      o | o | x
+     -----------    o ---> Pc
+      x | x | o
+
+Nice, we have a draw!
+
+Game duration: 00:58 sec
+
+Do you want to try one more time? ('Y' for YES, 'N' for NO): y
+
+
+Ok, Thanos.
+
+Here's the playground (you are 'x' & i am 'o', as before):
+
+   |   |
+-----------
+   |   |
+-----------
+   |   |
+
+Ok, we are ready. Let,s play! Press any key to continue . . .
+
+Game: 2
+
+
+      1 | 2 | 3
+     -----------
+      4 | 5 | 6    Thanos, you are x.
+     -----------
+      7 | 8 | 9
+
+
+Choose a number in order to get started: 5
+
+Game: 2
+
+
+
+        |   |
+     -----------    x ---> Thanos
+        | x |
+     -----------    o ---> Pc
+        |   |
+
+Let me think...
+Game: 2
+
+
+        |   |
+     -----------    x ---> /
+        | x |
+     -----------    o --->
+        |   |
+
+Game: 2
+
+My move is: 1. After my move the playground's like :
+
+      o |   |
+     -----------    x ---> Thanos
+        | x |
+     -----------    o ---> Pc
+        |   |
+
+Choose your next move (from the remaining numbers): 9
+
+Game: 2
+
+
+
+      o |   |
+     -----------    x ---> Thanos
+        | x |
+     -----------    o ---> Pc
+        |   | x
+
+Let me think...
+Game: 2
+
+
+      o |   |
+     -----------    x ---> /
+        | x |
+     -----------    o --->
+        |   | x
+
+Game: 2
+
+My move is: 7. After my move the playground's like :
+
+      o |   |
+     -----------    x ---> Thanos
+        | x |
+     -----------    o ---> Pc
+      o |   | x
+
+Choose your next move (from the remaining numbers): 6
+
+Game: 2
+
+
+
+      o |   |
+     -----------    x ---> Thanos
+        | x | x
+     -----------    o ---> Pc
+      o |   | x
+
+Let me think...
+Game: 2
+
+
+      o |   |
+     -----------    x ---> /
+        | x | x
+     -----------    o --->
+      o |   | x
+
+Game : 2
+
+My move is: 4. After my move the playground's like :
+
+      o |   |
+     -----------    x ---> Thanos
+      o | x | x
+     -----------    o ---> Pc
+      o |   | x
+
+Defeat:( Don't Give Up!
+
+Game duration: 00:29 sec
+
+Do you want to try one more time? ('Y' for YES, 'N' for NO): y
+
+
+Ok, Thanos.
+
+Here's the playground (you are 'x' & i am 'o', as before):
+
+   |   |
+-----------
+   |   |
+-----------
+   |   |
+
+Ok, we are ready. Now, it's my turn to start.
+Let,s play! Press any key to continue . . .
+
+Game: 3
+
+
+
+        |   |
+     -----------    x ---> Thanos
+        |   |
+     -----------    o ---> Pc
+        |   |
+
+Let me think...
+Game: 3
+
+
+        |   |
+     -----------    x ---> /
+        |   |
+     -----------    o --->
+        |   |
+
+Game: 3
+
+My move is: 9. After my move the playground's like :
+
+        |   |
+     -----------    x ---> Thanos
+        |   |
+     -----------    o ---> Pc
+        |   | o
+
+Choose your next move (from the remaining numbers): 8
+
+Game: 3
+
+
+
+        |   |
+     -----------    x ---> Thanos
+        |   |
+     -----------    o ---> Pc
+        | x | o
+
+Let me think...
+Game: 3
+
+
+        |   |
+     -----------    x ---> /
+        |   |
+     -----------    o --->
+        | x | o
+
+Game: 3
+
+My move is: 5. After my move the playground's like :
+
+        |   |
+     -----------    x ---> Thanos
+        | o |
+     -----------    o ---> Pc
+        | x | o
+
+Choose your next move (from the remaining numbers): 1
+
+Game: 3
+
+
+
+      x |   |
+     -----------    x ---> Thanos
+        | o |
+     -----------    o ---> Pc
+        | x | o
+
+Let me think...
+Game: 3
+
+
+      x |   |
+     -----------    x ---> /
+        | o |
+     -----------    o --->
+        | x | o
+
+Game: 3
+
+My move is: 4. After my move the playground's like :
+
+      x |   |
+     -----------    x ---> Thanos
+      o | o |
+     -----------    o ---> Pc
+        | x | o
+
+Choose your next move (from the remaining numbers): 6
+
+Game: 3
+
+
+
+      x |   |
+     -----------    x ---> Thanos
+      o | o | x
+     -----------    o ---> Pc
+        | x | o
+
+Let me think...
+Game: 3
+
+
+      x |   |
+     -----------    x ---> /
+      o | o | x
+     -----------    o --->
+        | x | o
+
+Game: 3
+
+My move is: 3. After my move the playground's like :
+
+      x |   | o
+     -----------    x ---> Thanos
+      o | o | x
+     -----------    o ---> Pc
+        | x | o
+
+Choose your next move (from the remaining numbers): 7
+
+Game: 3
+
+
+
+      x |   | o
+     -----------    x ---> Thanos
+      o | o | x
+     -----------    o ---> Pc
+      x | x | o
+
+Game: 3
+
+My move is: 3. After my move the playground's like :
+
+      x |   | o
+     -----------    x ---> Thanos
+      o | o | x
+     -----------    o ---> Pc
+        | x | o
+
+Grabbing the last cell...
+Game: 3
+
+After my move the only available cell was 7.
+
+      x |   | o
+     -----------    x ---> Thanos
+      o | o | x
+     -----------    o ---> Pc
+      x | x | o
+
+Game : 3
+
+My move is: 1. After my move the playground's like :
+
+      o |   | o
+     -----------    x ---> Thanos
+      o | o | x
+     -----------    o ---> Pc
+      x | x | o
+
+Defeat:( Don't Give Up!
+
+Game duration: 00:31 sec
+
+Do you want to try one more time? ('Y' for YES, 'N' for NO): n
+
+...
+
+
+
+              >>>>>>>>>>>>>>>>>>>>>>> o <<<<<<<<<<<<
+              |                                   74            |
+              0                       50                       100
+
+
+
+
+
+
+
+                    Game Analysis Window is now loading.
+
+                                              | /
+                            Please wait... --    --
+                                            / | \
+
+
+
+              >>>>>>>>>>>>>>>>>>>>>>> o <<<<<<<<<<<<<
+              |                                    76           |
+              0                       50                       100
+
+
+
+
+
+
+
+                    Game Analysis Window is now loading.
+
+                                            \ | /
+                            Please wait... --    --
+                                            / | \
+
+
+
+              >>>>>>>>>>>>>>>>>>>>>>> o <<<<<<<<<<<<<<
+              |                                     78          |
+              0                       50                       100
+
+
+
+
+
+
+
+                    Game Analysis Window is now loading.
+
+                                              |
+                            Please wait...
+
+
+
+
+              >>>>>>>>>>>>>>>>>>>>>>> o <<<<<<<<<<<<<<<
+              |                                      80         |
+              0                       50                       100
+
+
+
+
+
+
+
+                    Game Analysis Window is now loading.
+
+                                              | /
+                            Please wait...
+
+
+
+
+              >>>>>>>>>>>>>>>>>>>>>>> o <<<<<<<<<<<<<<<<
+              |                                       82        |
+              0                       50                       100
+
+
+
+
+
+
+
+                    Game Analysis Window is now loading.
+
+                                              | /
+                            Please wait...       --
+
+
+
+
+              >>>>>>>>>>>>>>>>>>>>>>> o <<<<<<<<<<<<<<<<<
+              |                                        84       |
+              0                       50                       100
+
+
+
+
+
+
+
+                    Game Analysis Window is now loading.
+
+                                              | /
+                            Please wait...       --
+                                                \
+
+
+
+              >>>>>>>>>>>>>>>>>>>>>>> o <<<<<<<<<<<<<<<<<<
+              |                                         86      |
+              0                       50                       100
+
+
+
+
+
+
+
+                    Game Analysis Window is now loading.
+
+                                              | /
+                            Please wait...       --
+                                              | \
+
+
+
+              >>>>>>>>>>>>>>>>>>>>>>> o <<<<<<<<<<<<<<<<<<<
+              |                                          88     |
+              0                       50                       100
+
+
+
+
+
+
+
+                    Game Analysis Window is now loading.
+
+                                              | /
+                            Please wait...       --
+                                            / | \
+
+
+
+              >>>>>>>>>>>>>>>>>>>>>>> o <<<<<<<<<<<<<<<<<<<<
+              |                                           90    |
+              0                       50                       100
+
+
+
+
+
+
+
+                    Game Analysis Window is now loading.
+
+                                              | /
+                            Please wait... --    --
+                                            / | \
+
+
+
+              >>>>>>>>>>>>>>>>>>>>>>> o <<<<<<<<<<<<<<<<<<<<<
+              |                                            92   |
+              0                       50                       100
+
+
+
+
+
+
+
+                    Game Analysis Window is now loading.
+
+                                            \ | /
+                            Please wait... --    --
+                                            / | \
+
+
+
+              >>>>>>>>>>>>>>>>>>>>>>> o <<<<<<<<<<<<<<<<<<<<<<
+              |                                             94  |
+              0                       50                       100
+
+
+
+
+
+
+
+                    Game Analysis Window is now loading.
+
+                                              |
+                            Please wait...
+
+
+
+
+              >>>>>>>>>>>>>>>>>>>>>>> o <<<<<<<<<<<<<<<<<<<<<<<
+              |                                              96 |
+              0                       50                       100
+
+
+
+
+
+
+
+                    Game Analysis Window is now loading.
+
+                                              | /
+                            Please wait...
+
+
+
+
+              >>>>>>>>>>>>>>>>>>>>>>> o <<<<<<<<<<<<<<<<<<<<<<<<
+              |                                               98|
+              0                       50                       100
+
+
+
+
+
+
+
+                    Game Analysis Window is now loading.
+
+                                              | /
+                            Please wait...       --
+
+
+
+
+              >>>>>>>>>>>>>>>>>>>>>>> o <<<<<<<<<<<<<<<<<<<<<<<<<
+              |                                                100
+              0                       50                       100
+
+
+
+   _________________________________________________________________________
+  |-------------------------------------------------------------------------|
+  |                                                                         |
+  |                UNBEATABLE TRILIZA - 'It's worth trying!'                |
+  |                                                                         |
+  |     Game(s) Analysis                                                    |
+  |                                                                         |
+  |     Name : Thanos (x)                       < Single Player Mode >      |
+  |                                                                         |
+  |       Game #   |  Player Moves  |  Pc Moves  |  Time   |  Result        |
+  |    ------------|----------------|------------|---------|----------      |
+  |         1      |        5       |      4     |  00:58  |   Draw         |
+  |                |                |            |         |                |
+  |                                                                         |
+  |                                          x | x | o                      |
+  |                                         -----------                     |
+  |         The Game ended up like this:     o | o | x                      |
+  |         (Thanos started)                -----------                     |
+  |                                          x | x | o                      |
+  |                                                                         |
+  |                |                |            |         |                |
+  |         2      |        3       |      3     |  00:29  |  Defeat        |
+  |                |                |            |         |                |
+  |                                                                         |
+  |                                          o |   |                        |
+  |                                         -----------                     |
+  |         The Game ended up like this:     o | x | x                      |
+  |         (Thanos started)                -----------                     |
+  |                                          o |   | x                      |
+  |                                                                         |
+  |                |                |            |         |                |
+  |         3      |        5       |      5     |  00:31  |  Defeat        |
+  |                |                |            |         |                |
+  |                                                                         |
+  |                                          o |   | o                      |
+  |                                         -----------                     |
+  |         The Game ended up like this:     o | o | x                      |
+  |         (Pc started)                    -----------                     |
+  |                                          x | x | o                      |
+  |                                                                         |
+  |                                                                         |
+  |     Total Winnings: 0 <--                        Total Games: 3         |
+  |                                                                         |
+  |     Total Defeats : 2                  Average Game Duration: 00:39     |
+  |                                                                         |
+  |     Total Draws   : 1                Average User Moves/Game: 4.3       |
+  |                                                                         |
+  |                                                                         |
+  |                    Your Best Game* : 1                                  |
+  |                    Your Worst Game*: 2                                  |
+  |                                                                         |
+  |               *If only one game played or all draws ==> 0               |
+  |                                                                         |
+  |                                                                         |
+  |-------------------------------------------------------------------------|
+  |_________________________________________________________________________|
+
+                                              Press any key to continue . . .
+
+ D.U.TH. GREECE
+
+
+
+ Press any key to exit...
+ (Exiting in: 20)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ##############  ##     ##        ##        ####      ##  ##     ##
+          ##        ##     ##       ####       #####     ##  ##   ##
+          ##        ##     ##      ##  ##      ##  ##    ##  ## ##
+          ##        #########     ########     ##   ##   ##  ###
+          ##        ##     ##    ##      ##    ##    ##  ##  ## ##
+          ##        ##     ##   ##        ##   ##     #####  ##   ##
+          ##        ##     ##  ##          ##  ##      ####  ##     ##
+
+                      ##      ##      ###      ##      ##
+                       ##    ##     ##   ##    ##      ##
+                        ##  ##     ##     ##   ##      ##
+                         ####      ##     ##   ##      ##
+                          ##       ##     ##   ##      ##
+                          ##        ##   ##     ##    ##
+                          ##          ###         ####
+
+ Creator: Thanasis
+          Charisoudis
+
+ E.E. DEPT.
+ D.U.TH. GREECE
+
+
+
+ Press any key to exit...
+ (Exiting in: 19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ##############  ##     ##        ##        ####      ##  ##     ##
+          ##        ##     ##       ####       #####     ##  ##   ##
+          ##        ##     ##      ##  ##      ##  ##    ##  ## ##
+          ##        #########     ########     ##   ##   ##  ###
+          ##        ##     ##    ##      ##    ##    ##  ##  ## ##
+          ##        ##     ##   ##        ##   ##     #####  ##   ##
+          ##        ##     ##  ##          ##  ##      ####  ##     ##
+
+                      ##      ##      ###      ##      ##
+                       ##    ##     ##   ##    ##      ##
+                        ##  ##     ##     ##   ##      ##
+                         ####      ##     ##   ##      ##
+                          ##       ##     ##   ##      ##
+                          ##        ##   ##     ##    ##
+                          ##          ###         ####
+
+ Creator: Thanasis
+          Charisoudis
+
+ E.E. DEPT.
+ D.U.TH. GREECE
+
+
+
+ Press any key to exit...
+ (Exiting in: 18)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ##############  ##     ##        ##        ####      ##  ##     ##
+          ##        ##     ##       ####       #####     ##  ##   ##
+          ##        ##     ##      ##  ##      ##  ##    ##  ## ##
+          ##        #########     ########     ##   ##   ##  ###
+          ##        ##     ##    ##      ##    ##    ##  ##  ## ##
+          ##        ##     ##   ##        ##   ##     #####  ##   ##
+          ##        ##     ##  ##          ##  ##      ####  ##     ##
+
+                      ##      ##      ###      ##      ##
+                       ##    ##     ##   ##    ##      ##
+                        ##  ##     ##     ##   ##      ##
+                         ####      ##     ##   ##      ##
+                          ##       ##     ##   ##      ##
+                          ##        ##   ##     ##    ##
+                          ##          ###         ####
+
+ Creator: Thanasis
+          Charisoudis
+
+ E.E. DEPT.
+ D.U.TH. GREECE
+
+
+
+ Press any key to exit...
+ (Exiting in: 17)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ##############  ##     ##        ##        ####      ##  ##     ##
+          ##        ##     ##       ####       #####     ##  ##   ##
+          ##        ##     ##      ##  ##      ##  ##    ##  ## ##
+          ##        #########     ########     ##   ##   ##  ###
+          ##        ##     ##    ##      ##    ##    ##  ##  ## ##
+          ##        ##     ##   ##        ##   ##     #####  ##   ##
+          ##        ##     ##  ##          ##  ##      ####  ##     ##
+
+                      ##      ##      ###      ##      ##
+                       ##    ##     ##   ##    ##      ##
+                        ##  ##     ##     ##   ##      ##
+                         ####      ##     ##   ##      ##
+                          ##       ##     ##   ##      ##
+                          ##        ##   ##     ##    ##
+                          ##          ###         ####
+
+ Creator: Thanasis
+          Charisoudis
+
+ E.E. DEPT.
+ D.U.TH. GREECE
+
+
+
+ Press any key to exit...
+ (Exiting in: 16)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ##############  ##     ##        ##        ####      ##  ##     ##
+          ##        ##     ##       ####       #####     ##  ##   ##
+          ##        ##     ##      ##  ##      ##  ##    ##  ## ##
+          ##        #########     ########     ##   ##   ##  ###
+          ##        ##     ##    ##      ##    ##    ##  ##  ## ##
+          ##        ##     ##   ##        ##   ##     #####  ##   ##
+          ##        ##     ##  ##          ##  ##      ####  ##     ##
+
+                      ##      ##      ###      ##      ##
+                       ##    ##     ##   ##    ##      ##
+                        ##  ##     ##     ##   ##      ##
+                         ####      ##     ##   ##      ##
+                          ##       ##     ##   ##      ##
+                          ##        ##   ##     ##    ##
+                          ##          ###         ####
+
+ Creator: Thanasis
+          Charisoudis
+
+ E.E. DEPT.
+ D.U.TH. GREECE
+
+
+
+ Press any key to exit...
+ (Exiting in: 15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ##############  ##     ##        ##        ####      ##  ##     ##
+          ##        ##     ##       ####       #####     ##  ##   ##
+          ##        ##     ##      ##  ##      ##  ##    ##  ## ##
+          ##        #########     ########     ##   ##   ##  ###
+          ##        ##     ##    ##      ##    ##    ##  ##  ## ##
+          ##        ##     ##   ##        ##   ##     #####  ##   ##
+          ##        ##     ##  ##          ##  ##      ####  ##     ##
+
+                      ##      ##      ###      ##      ##
+                       ##    ##     ##   ##    ##      ##
+                        ##  ##     ##     ##   ##      ##
+                         ####      ##     ##   ##      ##
+                          ##       ##     ##   ##      ##
+                          ##        ##   ##     ##    ##
+                          ##          ###         ####
+
+ Creator: Thanasis
+          Charisoudis
+
+ E.E. DEPT.
+ D.U.TH. GREECE
+
+
+
+ Press any key to exit...
+ (Exiting in: 14)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ##############  ##     ##        ##        ####      ##  ##     ##
+          ##        ##     ##       ####       #####     ##  ##   ##
+          ##        ##     ##      ##  ##      ##  ##    ##  ## ##
+          ##        #########     ########     ##   ##   ##  ###
+          ##        ##     ##    ##      ##    ##    ##  ##  ## ##
+          ##        ##     ##   ##        ##   ##     #####  ##   ##
+          ##        ##     ##  ##          ##  ##      ####  ##     ##
+
+                      ##      ##      ###      ##      ##
+                       ##    ##     ##   ##    ##      ##
+                        ##  ##     ##     ##   ##      ##
+                         ####      ##     ##   ##      ##
+                          ##       ##     ##   ##      ##
+                          ##        ##   ##     ##    ##
+                          ##          ###         ####
+
+ Creator: Thanasis
+          Charisoudis
+
+ E.E. DEPT.
+ D.U.TH. GREECE
+
+
+
+ Press any key to exit...
+ (Exiting in: 13)
+
+
+
+
+
+
+
+
+
+
+    ##############  ##     ##        ##        ####      ##  ##     ##
+          ##        ##     ##       ####       #####     ##  ##   ##
+          ##        ##     ##      ##  ##      ##  ##    ##  ## ##
+          ##        #########     ########     ##   ##   ##  ###
+          ##        ##     ##    ##      ##    ##    ##  ##  ## ##
+          ##        ##     ##   ##        ##   ##     #####  ##   ##
+          ##        ##     ##  ##          ##  ##      ####  ##     ##
+
+                      ##      ##      ###      ##      ##
+                       ##    ##     ##   ##    ##      ##
+                        ##  ##     ##     ##   ##      ##
+                         ####      ##     ##   ##      ##
+                          ##       ##     ##   ##      ##
+                          ##        ##   ##     ##    ##
+                          ##          ###         ####
+
+ Creator: Thanasis
+          Charisoudis
+
+ E.E. DEPT.
+ D.U.TH. GREECE
+
+
+
+ Press any key to exit...
+ (Exiting in: 12)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ##############  ##     ##        ##        ####      ##  ##     ##
+          ##        ##     ##       ####       #####     ##  ##   ##
+          ##        ##     ##      ##  ##      ##  ##    ##  ## ##
+          ##        #########     ########     ##   ##   ##  ###
+          ##        ##     ##    ##      ##    ##    ##  ##  ## ##
+          ##        ##     ##   ##        ##   ##     #####  ##   ##
+          ##        ##     ##  ##          ##  ##      ####  ##     ##
+
+                      ##      ##      ###      ##      ##
+                       ##    ##     ##   ##    ##      ##
+                        ##  ##     ##     ##   ##      ##
+                         ####      ##     ##   ##      ##
+                          ##       ##     ##   ##      ##
+                          ##        ##   ##     ##    ##
+                          ##          ###         ####
+
+ Creator: Thanasis
+          Charisoudis
+
+ E.E. DEPT.
+ D.U.TH. GREECE
+
+
+
+ Press any key to exit...
+ (Exiting in: 11)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ##############  ##     ##        ##        ####      ##  ##     ##
+          ##        ##     ##       ####       #####     ##  ##   ##
+          ##        ##     ##      ##  ##      ##  ##    ##  ## ##
+          ##        #########     ########     ##   ##   ##  ###
+          ##        ##     ##    ##      ##    ##    ##  ##  ## ##
+          ##        ##     ##   ##        ##   ##     #####  ##   ##
+          ##        ##     ##  ##          ##  ##      ####  ##     ##
+
+                      ##      ##      ###      ##      ##
+                       ##    ##     ##   ##    ##      ##
+                        ##  ##     ##     ##   ##      ##
+                         ####      ##     ##   ##      ##
+                          ##       ##     ##   ##      ##
+                          ##        ##   ##     ##    ##
+                          ##          ###         ####
+
+ Creator: Thanasis
+          Charisoudis
+
+ E.E. DEPT.
+ D.U.TH. GREECE
+
+
+
+ Press any key to exit...
+ (Exiting in: 10)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ##############  ##     ##        ##        ####      ##  ##     ##
+          ##        ##     ##       ####       #####     ##  ##   ##
+          ##        ##     ##      ##  ##      ##  ##    ##  ## ##
+          ##        #########     ########     ##   ##   ##  ###
+          ##        ##     ##    ##      ##    ##    ##  ##  ## ##
+          ##        ##     ##   ##        ##   ##     #####  ##   ##
+          ##        ##     ##  ##          ##  ##      ####  ##     ##
+
+                      ##      ##      ###      ##      ##
+                       ##    ##     ##   ##    ##      ##
+                        ##  ##     ##     ##   ##      ##
+                         ####      ##     ##   ##      ##
+                          ##       ##     ##   ##      ##
+                          ##        ##   ##     ##    ##
+                          ##          ###         ####
+
+ Creator: Thanasis
+          Charisoudis
+
+ E.E. DEPT.
+ D.U.TH. GREECE
+
+
+
+ Press any key to exit...
+ (Exiting in: 09)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ##############  ##     ##        ##        ####      ##  ##     ##
+          ##        ##     ##       ####       #####     ##  ##   ##
+          ##        ##     ##      ##  ##      ##  ##    ##  ## ##
+          ##        #########     ########     ##   ##   ##  ###
+          ##        ##     ##    ##      ##    ##    ##  ##  ## ##
+          ##        ##     ##   ##        ##   ##     #####  ##   ##
+          ##        ##     ##  ##          ##  ##      ####  ##     ##
+
+                      ##      ##      ###      ##      ##
+                       ##    ##     ##   ##    ##      ##
+                        ##  ##     ##     ##   ##      ##
+                         ####      ##     ##   ##      ##
+                          ##       ##     ##   ##      ##
+                          ##        ##   ##     ##    ##
+                          ##          ###         ####
+
+ Creator: Thanasis
+          Charisoudis
+
+ E.E. DEPT.
+ D.U.TH. GREECE
+
+
+
+ Press any key to exit...
+ (Exiting in: 08)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ##############  ##     ##        ##        ####      ##  ##     ##
+          ##        ##     ##       ####       #####     ##  ##   ##
+          ##        ##     ##      ##  ##      ##  ##    ##  ## ##
+          ##        #########     ########     ##   ##   ##  ###
+          ##        ##     ##    ##      ##    ##    ##  ##  ## ##
+          ##        ##     ##   ##        ##   ##     #####  ##   ##
+          ##        ##     ##  ##          ##  ##      ####  ##     ##
+
+                      ##      ##      ###      ##      ##
+                       ##    ##     ##   ##    ##      ##
+                        ##  ##     ##     ##   ##      ##
+                         ####      ##     ##   ##      ##
+                          ##       ##     ##   ##      ##
+                          ##        ##   ##     ##    ##
+                          ##          ###         ####
+
+ Creator: Thanasis
+          Charisoudis
+
+ E.E. DEPT.
+ D.U.TH. GREECE
+
+
+
+ Press any key to exit...
+ (Exiting in: 07)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ##############  ##     ##        ##        ####      ##  ##     ##
+          ##        ##     ##       ####       #####     ##  ##   ##
+          ##        ##     ##      ##  ##      ##  ##    ##  ## ##
+          ##        #########     ########     ##   ##   ##  ###
+          ##        ##     ##    ##      ##    ##    ##  ##  ## ##
+          ##        ##     ##   ##        ##   ##     #####  ##   ##
+          ##        ##     ##  ##          ##  ##      ####  ##     ##
+
+                      ##      ##      ###      ##      ##
+                       ##    ##     ##   ##    ##      ##
+                        ##  ##     ##     ##   ##      ##
+                         ####      ##     ##   ##      ##
+                          ##       ##     ##   ##      ##
+                          ##        ##   ##     ##    ##
+                          ##          ###         ####
+
+ Creator: Thanasis
+          Charisoudis
+
+ E.E. DEPT.
+ D.U.TH. GREECE
+
+
+
+ Press any key to exit...
+ (Exiting in: 06)
+
+
+
+
+
+<KB WAS HITTEN SO COUNTDOWN STOPPED>
+
+
+
+
+
+
+
+
+--------------------------------
+Process exited with return value 1000
+Press any key to continue . . .
+
+
+
+
+
+
+
+
+
+
+
+
