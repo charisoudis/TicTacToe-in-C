@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="TicTacToe_in_C"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/achariso/ClionProjects/TicTacToe-in-C/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/achariso/ClionProjects/TicTacToe-in-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/achariso/ClionProjects/TicTacToe-in-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/achariso/ClionProjects/TicTacToe-in-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/achariso/ClionProjects/TicTacToe-in-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/achariso/ClionProjects/TicTacToe-in-C/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/achariso/ClionProjects/TicTacToe-in-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/achariso/ClionProjects/TicTacToe-in-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/achariso/ClionProjects/TicTacToe-in-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/achariso/ClionProjects/TicTacToe-in-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/achariso/ClionProjects/TicTacToe-in-C/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/achariso/ClionProjects/TicTacToe-in-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/achariso/ClionProjects/TicTacToe-in-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/achariso/ClionProjects/TicTacToe-in-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/achariso/ClionProjects/TicTacToe-in-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TicTacToe_in_C">
+				<Option output="/home/achariso/ClionProjects/TicTacToe-in-C/cmake-build-debug/TicTacToe_in_C" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/achariso/ClionProjects/TicTacToe-in-C/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/achariso/ClionProjects/TicTacToe-in-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 TicTacToe_in_C"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/achariso/ClionProjects/TicTacToe-in-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/achariso/ClionProjects/TicTacToe-in-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/achariso/ClionProjects/TicTacToe-in-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TicTacToe_in_C/fast">
+				<Option output="/home/achariso/ClionProjects/TicTacToe-in-C/cmake-build-debug/TicTacToe_in_C" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/achariso/ClionProjects/TicTacToe-in-C/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/achariso/ClionProjects/TicTacToe-in-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 TicTacToe_in_C/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/achariso/ClionProjects/TicTacToe-in-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/achariso/ClionProjects/TicTacToe-in-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/achariso/ClionProjects/TicTacToe-in-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/achariso/ClionProjects/TicTacToe-in-C/Triliza_Game v6.c">
+			<Option target="TicTacToe_in_C"/>
+		</Unit>
+		<Unit filename="/home/achariso/ClionProjects/TicTacToe-in-C/compatibility_utils.c">
+			<Option target="TicTacToe_in_C"/>
+		</Unit>
+		<Unit filename="/home/achariso/ClionProjects/TicTacToe-in-C/compatibility_utils.h">
+			<Option target="TicTacToe_in_C"/>
+		</Unit>
+		<Unit filename="/home/achariso/ClionProjects/TicTacToe-in-C/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

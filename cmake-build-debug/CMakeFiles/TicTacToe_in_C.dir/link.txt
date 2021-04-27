@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/TicTacToe_in_C.dir/Triliza_Game_v6.c.o CMakeFiles/TicTacToe_in_C.dir/compatibility_utils.c.o  -o TicTacToe_in_C 
