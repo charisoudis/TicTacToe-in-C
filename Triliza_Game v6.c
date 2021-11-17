@@ -11,8 +11,10 @@
 #ifdef _WIN32
 #include <conio.h>
 #define CLEAR_COMMAND system("cls");
+#define PAUSE_COMMAND system("pause");
 #else
 #define CLEAR_COMMAND system("clear");
+#define PAUSE_COMMAND system("read -p 'Press Enter to continue...' var");
 
 #include "compatibility_utils.h"
 
@@ -64,17 +66,17 @@ int main()    //OK!
         d = 49;
         for (i = 0; i < 3; i++) {
             for (j = 0; j < 3; j++) {
-                c_board[i][j] = d;      //C_board is used for putting numbers (as chars) in cells
+                c_board[i][j] = (char) d;   //C_board is used for putting numbers (as chars) in cells
                 d += 1;
-                playground[i][j] = ' '; //Playground is the empty matrix that's beeing filled by players' movements
-                numb[i][j] = 0;       //Zeroing control matrix
+                playground[i][j] = ' ';     // Playground is the empty matrix that's being filled by players' movements
+                numb[i][j] = 0;             // Zeroing control matrix
             }
         }
         game2 = 0;
         //CLEAR SCREEN - GOOGLE TOLD ME THAT
         CLEAR_COMMAND
 
-        //display prokatarktika only if i==1
+        //display welcome stuff only if i==1
         if (pl_games == 1) {
             intro_graph(durs);
             CLEAR_COMMAND
@@ -108,7 +110,7 @@ int main()    //OK!
                     fflush;
 
                     //find name length - Needed in statistics window
-                    name_len = strlen(name);
+                    name_len = (int) strlen(name);
                     //If name's >=27 chars then pl_gaps<=0 in the game analysis board
                     if (name_len <= 20 && name_len >= 2) con_name = false;
                     else
@@ -161,7 +163,7 @@ int main()    //OK!
             }
 
             //pc_side is the left char
-            if (side = 'o')
+            if (side == 'o')
                 if (ch) {
                     pc_side = 'o';
                     side = 'x';
@@ -212,7 +214,7 @@ int main()    //OK!
                 //random start in single player mode
                 srand(time(NULL)); //generating numbers w/ different initial value
                 if (game_choice == 1 && (pl_games + (rand() % 200 + 1)) % 2 == 0) {
-                    pc_starts[pl_games - 1] = 1;  //for statistics
+                    pc_starts[pl_games - 1] = 1;    // for statistics
                     not_first = not_last = true;    // avoiding user's first && last move
                 }
             }
@@ -224,7 +226,7 @@ int main()    //OK!
         printf("\nOk, we are ready. ");
         if (pc_starts[pl_games - 1] == 1) printf("Now, it's my turn to start.\n");
         printf("Let,s play! ");
-        system("pause");
+        PAUSE_COMMAND
         CLEAR_COMMAND
 
         t = clock(); //Begin clock
@@ -360,7 +362,7 @@ int main()    //OK!
                     }
                 }
             } else not_first = false; //to be able to write down next move
-            //--------delay before pc's mpove
+            //--------delay before pc's move
             if (game_choice == 1) {
                 CLEAR_COMMAND
                 printf("\nGame: %d\n\n\n", pl_games);
@@ -387,7 +389,7 @@ int main()    //OK!
                        playground[0][0], playground[0][1], playground[0][2], side, name, playground[1][0],
                        playground[1][1], playground[1][2], pc_side, playground[2][0], playground[2][1],
                        playground[2][2]);
-                playground[posi][posj] = side;  //re putting the previus value
+                playground[posi][posj] = side;  //re putting the previous value
                 wait(3);
                 CLEAR_COMMAND
                 printf("\nGame: %d\n\n", pl_games);
@@ -411,14 +413,14 @@ int main()    //OK!
                         else printf("\n%s, choose your next move (from the remaining numbers): ", name2);
                         scanf("%s", nums);  //Reading user's choice
                         fflush;
-                        //to avoid causing panik when a char inserted
+                        //to avoid causing panic when a char inserted
                         num = atoi(nums);
                         if (num >= 1 && num <= 9) {
 
                             //Checking if the cell chosen is available
                             EMPTY = false;
                             if (num != 3 && num != 6 && num !=
-                                                        9) //For nums t.w.: num%3=0 i ahve to take a separate condition so that the match between num & numb[] is correct
+                                                        9) //For nums s.t. num%3=0 I have to take a separate condition so that the match between num & numb[] is correct
                             {
                                 if (numb[num / 3][num % 3 - 1] == 0)
                                     EMPTY = true;
@@ -469,7 +471,7 @@ int main()    //OK!
                 if (win == 2) {
                     //My turn - did not write down to be simpler
                     //printf("\nNow it's my turn...'\n");
-                    // In defeat : system("pause"); ---> To be totally visible
+                    // In defeat : PAUSE_COMMAND ---> To be totally visible
                     CLEAR_COMMAND
                     printf("\nGame : %d\n", pl_games);
                     if (game_choice != 2) {
@@ -510,7 +512,7 @@ int main()    //OK!
         }
 
         //Statistics
-        point = pl_games - 1; //matrices start from 0 whereas pl_gmaes from 1
+        point = pl_games - 1; //matrices start from 0 whereas pl_games from 1
         if (game_choice == 1) {
             //Giving Result
             if (win == 0) {
@@ -595,12 +597,12 @@ int main()    //OK!
             scanf("%s", ans1);
             fflush;
 
-            if (ans1[0] == 'Y' || ans1[0] == 'y')  //These are the only accepted answwers
+            if (ans1[0] == 'Y' || ans1[0] == 'y')  //These are the only accepted answers
             {
                 con2con = false;
                 f_ans = ans1[0];
                 CLEAR_COMMAND
-            } else if (ans1[0] == 'N' || ans1[0] == 'n')                    //These are the only accepted answwers
+            } else if (ans1[0] == 'N' || ans1[0] == 'n')                    //These are the only accepted answers
             {
                 CLEAR_COMMAND// printing results in a clean screen
                 con2con = false;
@@ -619,14 +621,14 @@ int main()    //OK!
         }
             //if ans negative ---> print results
         else {
-            if (pl_games == 1 && game_choice == 1)              //No use of statisticks in a solo game
+            if (pl_games == 1 && game_choice == 1)              //No use of statistics in a solo game
             {
                 printf("\nYou made %d moves.\n", i - 1);
                 printf("\nThank You!\n");
             } else if (game_choice == 1)                        //Print game statistics
             {
                 if (pl_win_pl == 0) {
-                    printf("\n\n%s you did not manage to win me in any of the %d games we played.\nBut it's allright! ",
+                    printf("\n\n%s you did not manage to win me in any of the %d games we played.\nBut it's alright! ",
                            name, pl_games);
                     if (pl_draw == 1) printf("We had a draw.");
                     else if (pl_draw > 1) printf("We had %d times a draw.", pl_draw);
@@ -1117,7 +1119,7 @@ int main()    //OK!
         }
     }
     printf("                                              ");
-    system("pause");
+    PAUSE_COMMAND
     delay(del);
 
     disable_raw_mode();
@@ -1130,7 +1132,7 @@ int main()    //OK!
 void delay(time_t dur) {
     time_t start, fin;
     time(&start);
-    int k = dur;
+    int k = (int) dur;
     do {
         time(&fin);
         if ((int) (dur - (fin - start)) == k) {
@@ -1166,7 +1168,7 @@ void delay(time_t dur) {
 void intro_graph(time_t durs) {
     time_t start, fin;
     time(&start);
-    int k = durs;
+    int k = (int) durs;
     do {
         time(&fin);
         if ((int) (durs - (fin - start)) == k) {
@@ -1201,9 +1203,9 @@ void intro_graph(time_t durs) {
 void wait(int entr) {
     bool printed;
     int i, n = 100000000;
-    for (int i = 0; i < n; i++) {
+    for (i = 0; i < n; i++) {
         if (entr != 33 && printed == false) {
-            n += 100000000; //more delay in playmode
+            n += 100000000; //more delay in play mode
             if (entr == 3) printf("\nGrabbing the last cell...");
             else if (entr == 5) n += 1000000000;
             else printf("\nLet me think...");
@@ -1344,7 +1346,7 @@ int best_move(int (numb)[3][3]) //OK!
 
     //for debugging :	printf("\nnumb : \n %d  |  %d  |  %d \n %d  |  %d  |  %d \n %d  |  %d  |  %d \n",numb[0][0],numb[0][1],numb[0][2],numb[1][0],numb[1][1],numb[1][2],numb[2][0],numb[2][1],numb[2][2]);
     //for debugging : 	printf("\nsums: 1st column: %d (%d z) 2st column: %d (%d z) 3rd column: %d (%d z)\n1st row: %d (%d z)\n2nd row: %d (%d z)     trace: %d (%d z)   anti: %d (%d z)\n3rd row: %d(%d z)",s_c[0],p_c[0],s_c[1],p_c[1],s_c[2],p_c[2],s_r[0],p_r[0],s_r[1],p_r[1],s_tr1,p_tr1,s_tr2,p_tr2,s_r[2],p_r[2]);
-    //for debugging :   system("pause");
+    //for debugging :   PAUSE_COMMAND
 
     //casing trick - MPAKALIKO BUT WORKS =====================================> ADD EVERY OTHER CASE HERE
     if (numb[0][0] == 0 && numb[0][1] == -1 && numb[0][2] == 1 && numb[1][0] == 1 && numb[1][1] == -1 &&
@@ -1383,24 +1385,21 @@ int best_move(int (numb)[3][3]) //OK!
         }
         pre_ret = pos + 7;
         return (pre_ret);
-    } else if (s_c[0] == -2 && p_c[0] == 1) //first column check for win
-    {
+    } else if (s_c[0] == -2 && p_c[0] == 1) { // first column check for win
         for (a = 0; a < 3; a++) {
             if (numb[a][0] == 0)
                 pos = a;
         }
         pre_ret = 3 * pos + 1;
         return (pre_ret);
-    } else if (s_c[1] == -2 && p_c[1] == 1) //2nd column check for win
-    {
+    } else if (s_c[1] == -2 && p_c[1] == 1) { // 2nd column check for win
         for (a = 0; a < 3; a++) {
             if (numb[a][1] == 0)
                 pos = a;
         }
         pre_ret = 3 * pos + 2;
         return (pre_ret);
-    } else if (s_c[2] == -2 && p_c[2] == 1) //3rd column check for win
-    {
+    } else if (s_c[2] == -2 && p_c[2] == 1) { // 3rd column check for win
         for (a = 0; a < 3; a++) {
             if (numb[a][2] == 0)
                 pos = a;
@@ -1607,10 +1606,11 @@ int best_move(int (numb)[3][3]) //OK!
         }
         return (pre_ret);
     }
+    return -1;
 }
 
-//Checks if there's a dursr (after five moves).
-//Returns 1-Player wins, 2-Pc Wins, 0-Noone wins ---SO-FAR--->(Draw)
+//Checks if there's a draft (after five moves).
+//Returns 1-Player wins, 2-Pc Wins, 0-None wins ---SO-FAR--->(Draw)
 int IsWinner(int (*numb)[3]) //OK!
 {
     int i, j, s_r[3], s_c[3], s_tr1 = 0, s_tr2 = 0;
@@ -1647,18 +1647,19 @@ int IsWinner(int (*numb)[3]) //OK!
             }
         }
     }
-    //if none's a winner return 0
-    if (flag == false) return (0);
+    //if no one is a winner return 0
+    if (flag == false)
+        return 0;
+    return -1;
 }
 
-//rands chaneges names in order to fake random start in multiplayer mode only
+//rands changes names in order to fake random start in multiplayer mode only
 //if swap is true it returns 1 else default
 int rand_multi(char *name1, char *name2, char *side, char *pc_side) {
     srand(time(NULL));
-    int n = rand() % 100 + 1, i, l1 = strlen(name1), l2 = strlen(name2);
+    int n = rand() % 100 + 1, i, l1 = (int) strlen(name1), l2 = (int) strlen(name2);
     char temp[27] = {' '}, temp1;
-    if (n % 2 == 0);
-    {
+    if (n % 2 == 0) {
         //swap sides
         temp1 = *side;
         *side = *pc_side;
@@ -1671,8 +1672,9 @@ int rand_multi(char *name1, char *name2, char *side, char *pc_side) {
         for (i = 0; i < 27; ++i) name2[i] = 32; //delete array to get array 2
         for (i = 0; i < l1; ++i) name2[i] = temp[i]; //name1=name2
         name2[i] = '\0';
-        return (1);
+        return 1;
     }
     // by default return (0);
+    return 0;
 }//+++++ my monkeys +++++// 
 

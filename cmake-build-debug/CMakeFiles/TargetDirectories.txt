@@ -1,3 +1,0 @@
-/home/achariso/ClionProjects/TicTacToe-in-C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/achariso/ClionProjects/TicTacToe-in-C/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/achariso/ClionProjects/TicTacToe-in-C/cmake-build-debug/CMakeFiles/TicTacToe_in_C.dir
